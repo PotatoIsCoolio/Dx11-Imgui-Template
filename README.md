@@ -1,12 +1,9 @@
 # Dx11-Imgui-Template
 Dx11-Imgui-Template
 
-@PotatoIsCoolio - Most Of The Base
-@Zynco1337 - Forked & Added Everything ImGui Related - Menu Styling, Checkboxes, etc
-
 A DirectX 11 + ImGui overlay base — clean fast and ready to use.
 
-Has uh MinHook + Kiero for Present hook and is mostly built for internal cheats.
+MinHook Kiero Hook Addon for Present hook, mostly built for internal cheats.
 
 # Features
 - ImGui menu with tabs (Main, Settings)
@@ -26,3 +23,9 @@ Has uh MinHook + Kiero for Present hook and is mostly built for internal cheats.
 Took the imgui template off of somewhere and added a bunch of shit to
 
 it so other people including me can use it easy. Bye :3
+
+# Credits
+[@PotatoIsCoolio](https://github.com/PotatoIsCoolio) - Most Of The Base
+
+[@Zynco1337](https://github.com/Zynco1337) - Forked & Added Everything ImGui Related - Menu Styling, Checkboxes, etc
+
