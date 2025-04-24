@@ -26,7 +26,7 @@ void CreateConsole()
     AllocConsole();
     freopen_s((FILE**)stdout, "CONOUT$", "w", stdout);
     freopen_s((FILE**)stdin, "CONIN$", "r", stdin);
-    SetConsoleTitleA("Potatos Console");
+    SetConsoleTitleA("Developer Console");
     std::cout << "[+] Console injected yip yap\n";
 }
 
